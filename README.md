@@ -29,7 +29,7 @@ Focus:
 - Python 3.x
 - PyTorch
 - NumPy
-- Matplotlib (for visualization)
+- Matplotlib (for visualization)  
 `pip install -r requirements.txt`
 
 ### Dataset
